@@ -13,7 +13,7 @@ An interactive Python-based simulator for classic **Operating Systems CPU Schedu
   5. **SRTF** (Shortest Remaining Time First - Preemptive)
   6. **MLFQ** (Multilevel Feedback Queue with 4 configurable queues)
 - **Context Switching:** Configurable context switch overhead added between transitions.
-- **Visualizations:** Generates an intuitive Gantt chart displaying execution intervals and arrival markers ($(\times)$).
+- **Visualizations:** Generates an intuitive Gantt chart displaying execution intervals and arrival markers.
 - **Performance Metrics:** Computes per-process and average metrics (Waiting Time, Turnaround Time, Response Time).
 
 ---
