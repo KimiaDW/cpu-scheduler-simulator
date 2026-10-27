@@ -4,7 +4,7 @@ An interactive Python-based simulator for classic **Operating Systems CPU Schedu
 
 ---
 
-## 🚀 Features
+## Features
 - **Supported Algorithms:**
   1. **FCFS** (First-Come, First-Served)
   2. **SJF** (Shortest Job First - Non-Preemptive)
